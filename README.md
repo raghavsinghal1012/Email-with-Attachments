@@ -10,6 +10,6 @@ The prerequisites of the project are:
 4. Sender's email id should be set prior sending the mail.
 
 # Description🧠
-After executing the main.py file gui wil pop up which let you select an excel file. Then the program will ask which field you want to set as name, enrollment ID and email for checking the pdf file later on. After that a GUI will let you select the folder in which you have saved your attachments. Now using all the provided information emails will be sent at the same moment.
+After executing the main.py file GUI wil pop up which let you select an excel file. Then the program will ask which field you want to set as name, enrollment ID and email for checking the pdf file later on. After that a GUI will let you select the folder in which you have saved your attachments. Now using all the provided information emails will be sent at the same moment.
 
 
